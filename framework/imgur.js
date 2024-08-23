@@ -15,7 +15,7 @@ async function uploadImageToImgur(imagePath, clientId) {
     const config = {
       method: 'post',
       maxBodyLength: Infinity,
-      url: 'https://api.imgur.com/3/image',
+      url: 'https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg',
       headers: headers,
       data: data
     };
