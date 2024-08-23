@@ -1,10 +1,10 @@
-## BONIPHACE MD
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Boniphace+md+Created+by+Boniphace.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+## no-name MD
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+no-name+md+Created+by+no-name tech.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
- <img alt="BONIPHACE-MD" height="300" src="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
+ <img alt="no-name-MD" height="300" src="https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg">
   
 </h1> 
-<p align="center">l introduce <b>BONIPHACE-MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>no-name-MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
@@ -50,13 +50,13 @@
 
 
 
-## HOW TO DEPLOY BONIPHACE MD
+## HOW TO DEPLOY no-name MD
 
 
 ## 1.FIRST STEP 
-## Fork Boniphace Md Repo
+## Fork no-name Md Repo
 👇 👇  👇 👇
-<a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/elizzybot/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
 
@@ -109,7 +109,7 @@ CONTACT DEVELOPER ON WHATSAPP
 
   
  
-<a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vae26R7EFeXfbF5Rd72B" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
